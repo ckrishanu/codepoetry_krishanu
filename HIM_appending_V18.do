@@ -7,6 +7,7 @@ set maxvar 32000
 //dataloc refers to the parent folder for dta files created by surveyCTO STATA templates 
 //global dataloc "C:\Users\niki.shrestha\Desktop\Sikandar Stuff\createdDTAsets"
 //global saveloc "C:\Users\niki.shrestha\Dropbox\Haryana Immunization\8 Baseline\9 Data\3 Baseline\6 Non PII Raw"
+//Krishanu add
 global dataloc "C:\Users\Mridul Joshi\Documents\Bl stat"
 
 
