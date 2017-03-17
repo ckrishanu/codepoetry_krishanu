@@ -10,7 +10,7 @@ set maxvar 32000
 //Krishanu add
 global dataloc "C:\Users\Mridul Joshi\Documents\Bl stat"
 
-
+//hello testm
 
 local c_date = c(current_date)
 
